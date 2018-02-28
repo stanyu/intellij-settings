@@ -2,6 +2,9 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
     <keyboard-shortcut first-keystroke="shift meta c" />
@@ -71,15 +74,17 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunToCursor" />
   <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="ctrl equals" />
+    <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
   <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="f4" />
