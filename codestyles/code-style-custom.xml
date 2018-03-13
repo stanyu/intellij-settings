@@ -58,9 +58,6 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
