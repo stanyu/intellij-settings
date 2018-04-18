@@ -82,6 +82,7 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
@@ -101,6 +102,10 @@
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="Print" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
