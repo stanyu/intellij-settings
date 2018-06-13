@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://telenet.be/ns/tv/cim/ucm" location="$USER_HOME$/dev/repos/cim-repos/cim-exporter" />
+  </component>
+</application>
