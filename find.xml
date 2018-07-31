@@ -18,5 +18,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.java</mask>
+    <mask>*ucm*</mask>
   </component>
 </application>
