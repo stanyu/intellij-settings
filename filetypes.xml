@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="index" type="Native" />
-      <mapping ext="xjb" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
