@@ -1,0 +1,31 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-12-27T14:09:43</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.3.3.0.0</property>
+    <property name="modified">2018-12-27T20:29:46</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="" />
+    <option name="FILESTATUS_COPIED" value="a7700" />
+    <option name="FILESTATUS_DELETED" value="" />
+    <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="" />
+    <option name="FILESTATUS_MERGED" value="" />
+    <option name="FILESTATUS_MODIFIED" value="" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_RENAMED" value="7c7c" />
+    <option name="FILESTATUS_SWITCHED" value="" />
+    <option name="FILESTATUS_UNKNOWN" value="" />
+    <option name="FILESTATUS_addedOutside" value="" />
+    <option name="FILESTATUS_changelistConflict" value="" />
+    <option name="FILESTATUS_modifiedOutside" value="" />
+  </colors>
+</scheme>
