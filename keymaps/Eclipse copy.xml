@@ -16,6 +16,9 @@
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
