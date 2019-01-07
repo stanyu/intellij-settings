@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="index" type="Native" />
+      <mapping ext="pl" type="Perl" />
+      <removed_mapping ext="pl" approved="true" type="Prolog resource" />
+      <removed_mapping ext="pl" approved="true" type="Prolog resource" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
