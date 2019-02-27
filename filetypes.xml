@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="index" type="Native" />
+      <mapping ext="6_5_asd" type="PLAIN_TEXT" />
       <mapping ext="pl" type="Perl" />
       <removed_mapping ext="pl" approved="true" type="Prolog resource" />
       <removed_mapping ext="pl" approved="true" type="Prolog resource" />
