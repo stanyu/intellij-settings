@@ -4,11 +4,11 @@
     <property name="created">2018-01-29T16:41:50</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2019-06-05T18:20:29</property>
+    <property name="modified">2019-06-05T18:22:47</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Courier 10 Pitch" />
+  <option name="EDITOR_FONT_SIZE" value="22" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Variable" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="384447" />
