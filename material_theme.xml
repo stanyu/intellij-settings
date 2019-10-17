@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -19,6 +18,6 @@
     <option name="highlightThickness" value="4" />
     <option name="selectedTheme" value="LIGHT_CUSTOM" />
     <option name="userId" value="1ec5b7dd:167ac116ac8:-8000" />
-    <option name="version" value="3.10.0" />
+    <option name="version" value="4.5.2" />
   </component>
 </application>
