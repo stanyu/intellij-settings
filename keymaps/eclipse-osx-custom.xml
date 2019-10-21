@@ -127,6 +127,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="RunToCursor" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
