@@ -49,6 +49,12 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="meta f6" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta f6" />
+  </action>
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -102,11 +108,24 @@
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta f6" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta f6" />
   </action>
   <action id="Print" />
   <action id="Refactorings.QuickListPopupAction">
