@@ -123,10 +123,10 @@
   </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="ctrl q" />
-    <keyboard-shortcut first-keystroke="meta alt right" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="JumpToNextChange">
-    <keyboard-shortcut first-keystroke="meta alt left" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
