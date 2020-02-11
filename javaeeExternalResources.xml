@@ -1,5 +1,0 @@
-<application>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://telenet.be/ns/tv/cim/ucm" location="$USER_HOME$/dev/repos/cim-repos/cim-ucm-domain-model/src/test/resources/schema/UCMInputFeed_v1.xsd" />
-  </component>
-</application>
