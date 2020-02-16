@@ -1,0 +1,27 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="monochromeIcons" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="indicatorStyle" value="Dot" />
+    <option name="customSidebarHeight" value="36" />
+    <option name="treeFontSize" value="14" />
+    <option name="highlightThickness" value="4" />
+    <option name="tabsHeight" value="18" />
+    <option name="accentColor" value="d3b279" />
+    <option name="highlightColor" value="39b145" />
+    <option name="selectedTheme" value="LIGHT_CUSTOM" />
+    <option name="userId" value="1ec5b7dd:167ac116ac8:-8000" />
+    <option name="version" value="4.11.5" />
+  </component>
+</application>

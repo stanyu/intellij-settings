@@ -1,0 +1,19 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="squid:S2055" />
+      </set>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.awsdev.optanix.com/" />
+          <token>dfcbdf9fdfcfdf9cdf9cdf92dfc8df99dfccdf9edf93dfcbdfcfdfc8df98df9bdf92df9bdfcfdf92df9adfcbdfc8df98dfcfdf9adf9fdfccdf99df99dfcedfcbdf93df9fdf98dfcbdfcfdf93df99dfce</token>
+          <option name="name" value="optanix-rca" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
